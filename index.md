@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Personal blog to throw ideas and quality concepts
 ---
 
